@@ -4,8 +4,8 @@
 menu:
   lobby:
     0:
-      survival: "&fВыживание"
-      creative: "&fКреатив"
+      survival: "&fSurvival"
+      creative: "&fCreatve"
       kitpvp: "&fKitPVP"
     1:
       0: "&fЗапустить карту"
