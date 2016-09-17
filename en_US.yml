@@ -47,13 +47,13 @@ menu:
       0: "&fI do not accept it:"
       1: "&fI accept it:"
   kitpvp:
-    0: "&fStarter"
-    1: "&fArcher"
-    2: "&fTank"
-    3: "&fNoob"
-    4: "&fWarrior"
-    5: "&fKnight"
-    6: "&fPilot"
+    0: "Starter"
+    1: "Archer"
+    2: "Tank"
+    3: "Noob"
+    4: "Warrior"
+    5: "Knight"
+    6: "Pilot"
 other:
   0: "&7Look for another place to advertise."
   1: "&7Sign in to your account to activate Donate: "
@@ -91,8 +91,8 @@ other:
   33: "Session intercepted."
 commands:
   list:
-    0: "&7Global online: "
-    1: "&7Online on map: "
+    0: "&7Global online: &2"
+    1: "&7Online on map: &2"
   find:
     0: "&7 It is located in the lobby."
     1: "&7 It is on survival."
