@@ -13,7 +13,7 @@ menu:
       2: "&fRun map in PVP-Arena mode"
       3: "&fCreate map"
     2:
-      0: "&fVKontakte group:"
+      0: "&fVKontakte community:"
       1: "&fBuy donate:"
       2: "&fPrimary server:"
     3:
@@ -26,7 +26,7 @@ menu:
   player:
     0:
       0: "&fClose world"
-      1: "&fСonstruction management"
+      1: "&fConstruction management"
       2:
         0: "&fDo night"
         1: "&fDo day"
@@ -115,4 +115,4 @@ commands:
       5: "&7You have already entered!"
       6: "&7In this account has no password!"
       7: "&7You have successfully removed the password!"
-      8: "&7Remove your card for the account deletion."
+      8: "&7Remove your map for the account deletion."
