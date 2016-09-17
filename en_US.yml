@@ -47,13 +47,13 @@ menu:
       0: "&fI do not accept it:"
       1: "&fI accept it:"
   kitpvp:
-    0: "&fStarter"
-    1: "&fArcher"
-    2: "&fTank"
-    3: "&fNoob"
-    4: "&fWarrior"
-    5: "&fKnight"
-    6: "&fPilot"
+    0: "Starter"
+    1: "Archer"
+    2: "Tank"
+    3: "Noob"
+    4: "Warrior"
+    5: "Knight"
+    6: "Pilot"
 other:
   0: "&7Look for another place to advertise."
   1: "&7Sign in to your account to activate Donate: "
@@ -91,8 +91,8 @@ other:
   33: "Сессия перехвачена."
 commands:
   list:
-    0: "&7Глобальный онлайн: "
-    1: "&7Онлайн на карте: "
+    0: "&7Глобальный онлайн: &2"
+    1: "&7Онлайн на карте: &2"
   find:
     0: "&7 находится в лобби."
     1: "&7 находится на выживании."
